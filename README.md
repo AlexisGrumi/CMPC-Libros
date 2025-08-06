@@ -102,7 +102,7 @@ docker exec -it backend npm run test:cov
 Una vez en ejecución, accede a la documentación Swagger en:
 
 ```
-http://localhost:3001/api-docs
+http://localhost:3001/api/docs#/
 ```
 
 ## Observaciones
